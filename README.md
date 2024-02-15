@@ -1,2 +1,0 @@
-# E-com
-Web application
